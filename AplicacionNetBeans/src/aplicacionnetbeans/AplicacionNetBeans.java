@@ -22,7 +22,7 @@ public class AplicacionNetBeans {
         System.out.println("Este es un cambio en netbeans C");
         System.out.println("Este es un cambio en netbeans D");
         System.out.println("Este es un cambio en netbeans E");
-        System.out.println("Este es un cambio en netbeans F");
+        System.out.println("Este es un cambio en netbeans F   ");
 
     }
     
