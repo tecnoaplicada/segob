@@ -18,6 +18,8 @@ public class AplicacionNetBeans {
         // TODO code application logic here
         
         System.out.println("Este es un cambio en netbeans");
+        System.out.println("Este es un cambio en netbeans B");
+
     }
     
 }
