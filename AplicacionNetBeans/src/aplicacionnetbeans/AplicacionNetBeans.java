@@ -29,5 +29,9 @@ public class AplicacionNetBeans {
     public void funcionNetBeansA(){
         System.out.println("Esta es la funcionNetBeansA()");
     }
+
+    public void funcionNetBeansB(){
+        System.out.println("Esta es la funcionNetBeansB()");
+    }
     
 }
