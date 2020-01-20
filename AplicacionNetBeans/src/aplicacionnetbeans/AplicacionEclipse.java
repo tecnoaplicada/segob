@@ -6,6 +6,7 @@ public class AplicacionEclipse {
 			
 		
 		System.out.println("Programacion en Eclipse");
+		System.out.println("Programacion en Eclipse NET BEANS");
 
 	}
 
