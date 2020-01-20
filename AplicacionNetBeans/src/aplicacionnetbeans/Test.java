@@ -10,7 +10,10 @@ package aplicacionnetbeans;
  * @author Anthoni Olvera
  */
 public class Test {
+
     public static void main(String[] args) {
         System.out.println("SE REALIZA PRUEBA ADD, COMMIT, REMOTE->PUSH");
+        System.out.println("SE REALIZA PRUEBA PARA PROBAR PUSH.. EN SINCRONIZED ECLIPSE");
+
     }
 }
