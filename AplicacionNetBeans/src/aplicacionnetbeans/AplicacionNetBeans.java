@@ -44,5 +44,9 @@ public class AplicacionNetBeans {
     public void funcionNetBeansC(){
         System.out.println("Esta es la funcionNetBeansC()");
     }
+
+    public void funcionNetBeansD(){
+        System.out.println("Esta es la funcionNetBeansD()");
+    }
     
 }
