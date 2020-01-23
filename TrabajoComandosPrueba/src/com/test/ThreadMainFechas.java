@@ -10,9 +10,10 @@ public class ThreadMainFechas {
 		
  		LocalDate locadDate = LocalDate.of(2000, 3, 4);
  	
+ 		System.out.println( locadDate );
  		
  		System.out.println( locadDate );
  		System.out.println( LocalDate.parse("2000-01-02", DateTimeFormatter.ISO_DATE) );
 
 	}
-}
+} 
