@@ -17,20 +17,8 @@ public class AplicacionNetBeans {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Este es un cambio en netbeans");
-        System.out.println("Este es un cambio en netbeans B");
-        System.out.println("Este es un cambio en netbeans C");
-        System.out.println("Este es un cambio en netbeans D");
-        System.out.println("Este es un cambio en netbeans E");
-        System.out.println("Este es un cambio en netbeans F    ");
-        System.out.println("Este es un cambio en netbeans G    ");
-        System.out.println("Este es un cambio en netbeans h");
-        System.out.println("Este es un cambio en netbeans i");
-        System.out.println("Este es un cambio en netbeans J");
-        System.out.println("Este es un cambio en netbeans K");
-        System.out.println("Este es un cambio en netbeans L");
-        System.out.println("Este es un cambio en netbeans M");
-        System.out.println("Este es un cambio en netbeans N");
+        System.out.println("Esta prueba es para validar funcionalidad de tortoise-git");
+
 
     }
     
